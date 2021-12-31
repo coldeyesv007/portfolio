@@ -986,6 +986,7 @@ ul {
 
 
 .pricing h3 {
+    display:block;
     font-family: 'Poppins',sans-serif;
 }
 
@@ -1005,6 +1006,7 @@ ul {
     transition: 0.3s;
     margin-bottom: 30px;
     border: 4px;
+    display:block;
     border-radius: 6px;
 }
 
