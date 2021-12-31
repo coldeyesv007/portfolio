@@ -1006,7 +1006,7 @@ ul {
     transition: 0.3s;
     margin-bottom: 30px;
     border: 4px;
-    display:block;
+    position:relative;
     border-radius: 6px;
 }
 
