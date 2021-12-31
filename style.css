@@ -970,6 +970,7 @@ ul {
 .grid-item figure {
     position: relative;
     overflow: hidden;
+    display:inline-block;
     border-radius: 10px;
 }
 
