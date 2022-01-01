@@ -129,7 +129,7 @@ $(window).on("load", function(){
             data:$("#contact-form").serialize(),
             method:"post",
             success:function (response){
-                window.location.href="thankyou"
+                window.location.href="thankyou.html"
                 
             },
             error:function (err){
